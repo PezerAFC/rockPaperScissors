@@ -1,0 +1,27 @@
+body {
+	background-color: aquamarine;
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.guns {
+	padding: 1em;
+	margin-top: 10px;
+	border-radius: 25px;
+	outline: none;
+	background-color: orange;
+}
+.guns:hover {
+	transform: scale(1.1);
+	background-color: orangered;
+}
+p {
+	margin: 0.2em;
+	margin-top: 2%;
+	width: 50vw;
+	margin-left: 24%;
+	border: black 2px solid;
+	padding: 0.1em;
+	background-color: cornsilk;
+}
